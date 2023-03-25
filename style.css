@@ -25,7 +25,7 @@
 .container-1 {
     display: flex;
     background-color: rgb(76, 255, 76);
-    width: 90vw;
+    width: 85vw;
     margin: auto;
     padding: 10px;
     border-top-right-radius: 10px;
@@ -44,7 +44,7 @@
 }
 
 .produtos {
-    width: 90vw;
+    width: 85vw;
     margin: auto;
     border: 1px solid lightgray;
     padding: 9px;
